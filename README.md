@@ -1,5 +1,5 @@
 # Kepler20pb
-Projeto realizado na disciplina de Processamento Paralelo, dentro do curso de Ciência da Computação, no ano de 2023.
+**Projeto realizado na disciplina de Processamento Paralelo, dentro do curso de Ciência da Computação, no ano de 2023.**
 
 Kepler-20PB é um exoplaneta que orbita a Kepler-186. Trata-se um dos planetas de tamanho
 semelhante ao da Terra, descoberto na zona habitável de uma estrela. O Kepler-20PB possui um
